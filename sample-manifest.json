@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8dc5d2ae-edbb-4e38-bc30-fb412bedb06e",
+  "export_job_id": "0f20cd71-62d6-4526-8262-a668d55b420f",
   "id_short": 644581,
-  "published_at": "2026-04-22T07:48:38Z",
+  "published_at": "2026-04-29T07:52:56Z",
   "repo_name": "all-restaurants-in-vermont-us-sample-644581",
   "sample_asset_name": "beamstation_644581_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/644581/beamstation_644581_restaurants-us-vt_SAMPLE_DIST.csv",
-  "sample_records": 100,
-  "sample_sha256": "191417dc7953e70a39c8d074b898c996e78e7bbcda040ae66c19576e007abe15",
-  "sample_size_bytes": 289557,
-  "total_records": 1000
+  "sample_records": 146,
+  "sample_sha256": "b5d4b25113feac76fcdcdde8ca3064848be474db1ee144326c3c3d7c7eac719d",
+  "sample_size_bytes": 445687,
+  "total_records": 1467
 }
