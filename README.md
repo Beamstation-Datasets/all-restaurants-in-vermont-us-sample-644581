@@ -1,6 +1,6 @@
 # All Restaurants in Vermont, US
 
-> Free BeamStation sample export with 100 rows and masked direct-contact fields.
+> Free BeamStation sample export with 146 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `644581` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 1,000 records |
-| Free sample size | 100 records (10.0%) |
-| Last export | 2026-04-21T20:30:34.945204+00:00 |
+| Full dataset size | 1,467 records |
+| Free sample size | 146 records (9.95%) |
+| Last export | 2026-04-28T22:27:55.047518+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-vermont-us-sample-644581/releases/download/sample-latest/beamstation_644581_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
