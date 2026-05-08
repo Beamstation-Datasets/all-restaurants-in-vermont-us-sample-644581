@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Vermont. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Vermont, US",
-  "export_job_id": "0f20cd71-62d6-4526-8262-a668d55b420f",
+  "export_job_id": "e73f6785-5f1e-4e14-993d-5c4e78da8aa4",
   "github_org": "Beamstation-Datasets",
   "id_short": 644581,
   "location_name": "Vermont",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-vermont-us-sample-644581",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/644581/beamstation_644581_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_pct": 9.95,
-  "sample_records": 146,
-  "sample_sha256": "b5d4b25113feac76fcdcdde8ca3064848be474db1ee144326c3c3d7c7eac719d",
-  "sample_size_bytes": 445687,
-  "total_records": 1467,
-  "updated_at": "2026-04-28T22:27:55.047518+00:00"
+  "sample_records": 153,
+  "sample_sha256": "8c855101caa2c06e5f5f5c5534c60368069aa9b5afa64a1ff79ea77535d888a7",
+  "sample_size_bytes": 489475,
+  "total_records": 1537,
+  "updated_at": "2026-05-07T21:56:11.432088+00:00"
 }
